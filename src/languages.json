@@ -1,0 +1,6 @@
+[
+  { "value": "en", "label": "English", "icon": "🇺🇸" },
+  { "value": "de", "label": "German", "icon": "🇩🇪" },
+  { "value": "fr", "label": "French", "icon": "🇫🇷" },
+  { "value": "cn", "label": "Chinese", "icon": "🇨🇳" }
+]
